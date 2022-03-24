@@ -1,2 +1,2 @@
 # cv-firstlook
-Learining HTML
+Learning HTML
